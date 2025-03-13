@@ -1,6 +1,10 @@
-# Project Zomboid Dedicated Server
+# DEPRECATED AND ARCHIVED
+I am no longer supporting this repo and image. I have a new repo and image available here https://github.com/jsknnr/project-zomboid-server that is not based on a fork. The new repo is similar to my other work and I like consistency.
 
-![Build and Test Server Image](https://github.com/jsknnr/zomboid-dedicated-server/actions/workflows/docker-build.yml/badge.svg?branch=main)
+
+
+
+
 
 ## Table of Contents
 1. [Disclaimer](#disclaimer)
